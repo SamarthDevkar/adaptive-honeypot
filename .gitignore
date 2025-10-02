@@ -1,0 +1,12 @@
+honeypot-env/
+__pycache__/
+*.pyc
+*.log
+*.json
+*.csv
+cowrie-env/
+venv/
+.env
+.idea/
+*.sqlite3
+cowrie/var/
