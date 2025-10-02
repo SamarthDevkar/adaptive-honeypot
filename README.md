@@ -2,6 +2,8 @@
 
 This project implements an adaptive honeypot that uses AI to detect, classify, and dynamically respond to evolving network threats using tools like Cowrie, Python, and ML models.
 
+Currently focused on one of the most important network protocols: SSH.
+
 ## Temporary Project Structure
 
 - `extract_commands.py`: Extracts commands from Cowrie JSON logs
